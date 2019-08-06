@@ -27,6 +27,7 @@ class Leetcode462 {
                 } else {
                     count += calculatePerimeter(nextI, nextJ, grid);
                 }
+
             }
             return count;
 
