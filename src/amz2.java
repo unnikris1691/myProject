@@ -3,8 +3,8 @@ import java.util.*;
 public class amz2 {
 
     public static void main (String[] args){
-        String[] array = new String[]{"bella","label","roller"};
-        System.out.println(Leetcode1002.commonChars(array));
+        int[] array = new int[]{1,2};
+        System.out.println(Leetcode121.Solution.maxProfit(array));
     }
 
     class Solution {
